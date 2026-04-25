@@ -1,4 +1,4 @@
-App de Gestion de Espacios de Coworking PoC
+### App de Gestion de Espacios de Coworking PoC
 
 Este repositorio contiene una propuesta técnica y una Prueba de Concepto (PoC) para una aplicación de gestión de espacios de coworking desarrollada como parte de una evaluación técnica
 
@@ -18,7 +18,7 @@ docs Documentación técnica completa
 Funcionalidades Clave PoC
 - Lista visual de espacios de coworking disponibles usando LazyColumn
 - Vista detallada de cada espacio incluyendo precio capacidad y disponibilidad
-- Navegacion persistente usando una barra inferior BottomBar
+- Navegación persistente usando una barra inferior BottomBar
 - Flujo de reservación simulado
 
 Tecnologías Utilizadas
@@ -30,5 +30,5 @@ Tecnologías Utilizadas
 Como Ejecutar
 1 Abrir el proyecto en Android Studio Ladybug o mas reciente
 2 Sincronizar el proyecto con los archivos de Gradle
-3 Ejecutar el modulo app en un emulador o dispositivo fisico
+3 Ejecutar el módulo app en un emulador o dispositivo fisico
 
