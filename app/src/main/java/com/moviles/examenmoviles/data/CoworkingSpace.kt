@@ -21,7 +21,7 @@ object MockDataProvider {
             capacity = 20,
             pricePerHour = 8500.0,
             isAvailable = true,
-            imageUrl = "https://example.com/image1.jpg"
+            imageUrl = "coworking_default.jpg"
         ),
         CoworkingSpace(
             id = "2",
@@ -31,7 +31,7 @@ object MockDataProvider {
             capacity = 10,
             pricePerHour = 6000.0,
             isAvailable = true,
-            imageUrl = "https://example.com/image2.jpg"
+            imageUrl = "coworking_default.jpg"
         ),
         CoworkingSpace(
             id = "3",
@@ -41,7 +41,7 @@ object MockDataProvider {
             capacity = 35,
             pricePerHour = 12000.0,
             isAvailable = false,
-            imageUrl = "https://example.com/image3.jpg"
+            imageUrl = "coworking_default.jpg"
         ),
         CoworkingSpace(
             id = "4",
@@ -51,7 +51,7 @@ object MockDataProvider {
             capacity = 15,
             pricePerHour = 15000.0,
             isAvailable = true,
-            imageUrl = "https://example.com/image4.jpg"
+            imageUrl = "coworking_default.jpg"
         ),
         CoworkingSpace(
             id = "5",
@@ -61,7 +61,7 @@ object MockDataProvider {
             capacity = 12,
             pricePerHour = 7500.0,
             isAvailable = true,
-            imageUrl = "https://example.com/image5.jpg"
+            imageUrl = "coworking_default.jpg"
         )
     )
 }
